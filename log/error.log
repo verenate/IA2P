@@ -1,0 +1,60 @@
+2009-12-02 22:59:04: (log.c.166) server started 
+2009-12-02 23:26:32: (server.c.1389) [note] graceful shutdown started 
+2009-12-02 23:26:32: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-02 23:26:34: (log.c.166) server started 
+2009-12-02 23:26:44: (mod_fastcgi.c.2698) FastCGI-stderr: PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Berlin' for 'CET/1.0/no DST' instead in /Users/gve/Sites/www/web/phpinfo.php on line 1
+ 
+2009-12-02 23:38:14: (server.c.1389) [note] graceful shutdown started 
+2009-12-02 23:38:14: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-02 23:38:19: (log.c.166) server started 
+2009-12-02 23:38:19: (mod_alias.c.106) url.alias: `/sfDoctrinePlugin' will never match as `/sf' matched first
+2009-12-02 23:38:19: (server.c.931) Configuration of plugins failed. Going down. 
+2009-12-02 23:38:42: (log.c.166) server started 
+2009-12-02 23:38:42: (mod_alias.c.106) url.alias: `/sfDoctrinePlugin' will never match as `/sf' matched first
+2009-12-02 23:38:42: (server.c.931) Configuration of plugins failed. Going down. 
+2009-12-02 23:41:00: (log.c.166) server started 
+2009-12-02 23:51:53: (mod_fastcgi.c.2698) FastCGI-stderr: PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Berlin' for 'CET/1.0/no DST' instead in /Users/gve/Sites/web/symfony/1.4.0/lib/config/sfRootConfigHandler.class.php on line 91
+PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Berlin' for 'CET/1.0/no DST' instead in /Users/gve/Sites/web/symfony/1.4.0/lib/config/sfCompileConfigHandler.class.php on line 82
+PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Berlin' for 'CET/1.0/no DST' instead in /Users/gve/Sites/web/symfony/1.4.0/lib/config/sfDefineEnvironmentConfigHandler.class.php on line 66
+ 
+2009-12-02 23:55:37: (server.c.1389) [note] graceful shutdown started 
+2009-12-02 23:55:37: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-02 23:56:00: (log.c.166) server started 
+2009-12-03 00:00:56: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:00:56: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:00:58: (log.c.166) server started 
+2009-12-03 00:00:58: (mod_alias.c.106) url.alias: `/sfDoctrinePlugin/' will never match as `/sf' matched first
+2009-12-03 00:00:58: (server.c.931) Configuration of plugins failed. Going down. 
+2009-12-03 00:01:06: (log.c.166) server started 
+2009-12-03 00:01:06: (mod_alias.c.106) url.alias: `/sfDoctrinePlugin/' will never match as `/sf' matched first
+2009-12-03 00:01:06: (server.c.931) Configuration of plugins failed. Going down. 
+2009-12-03 00:06:30: (log.c.166) server started 
+2009-12-03 00:07:03: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:07:03: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:07:06: (log.c.166) server started 
+2009-12-03 00:09:18: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:09:18: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:09:20: (log.c.166) server started 
+2009-12-03 00:09:29: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:09:37: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:09:39: (log.c.166) server started 
+2009-12-03 00:13:30: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:13:30: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:13:32: (log.c.166) server started 
+2009-12-03 00:15:28: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:15:28: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:15:30: (log.c.166) server started 
+2009-12-03 00:15:50: (mod_fastcgi.c.2698) FastCGI-stderr: PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Berlin' for 'CET/1.0/no DST' instead in /Users/gve/Sites/web/symfony/1.4.0/lib/config/sfRootConfigHandler.class.php on line 91
+PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Berlin' for 'CET/1.0/no DST' instead in /Users/gve/Sites/web/symfony/1.4.0/lib/config/sfDefineEnvironmentConfigHandler.class.php on line 66
+ 
+2009-12-03 00:37:40: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:37:40: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:37:47: (log.c.166) server started 
+2009-12-03 00:39:29: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:39:29: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:39:32: (log.c.166) server started 
+2009-12-03 00:43:51: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:43:51: (server.c.1503) server stopped by UID = 501 PID = 2490 
+2009-12-03 00:43:53: (log.c.166) server started 
+2009-12-03 00:54:31: (server.c.1389) [note] graceful shutdown started 
+2009-12-03 00:54:31: (server.c.1503) server stopped by UID = 501 PID = 2490 
